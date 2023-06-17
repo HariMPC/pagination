@@ -1,0 +1,40 @@
+.button {
+  display: inline-block;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  text-align: center;
+  position: relative;
+  top: 5in;
+}
+h1{
+text-align: center;
+color: black;
+font-weight: bolder;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: initial;
+}
+#description {
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: initial;
+  }
+#table-responsive{
+        width: 80%;
+        margin: 20px;
+        text-align: center;
+  }
+thead {
+  width: 80%;
+  margin: 20px;
+  background-color: navy;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: lightgreen;
+}
